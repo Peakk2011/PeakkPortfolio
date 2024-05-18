@@ -1,0 +1,63 @@
+/* Reset To Defauit */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Arabica */
+
+@font-face {
+    font-family: Arabica;
+    src: url(Arabica/Arabica.otf);
+}
+
+@font-face {
+    font-family: Arabica-italic;
+    src: url(Arabica/Arabica-italic.otf);
+}
+
+/* Fc-icon */
+
+@font-face {
+    font-family: FC-icons-Bold;
+    src: url(FC-Iconic/FC\ Iconic\ Bold.otf);
+}
+
+@font-face {
+    font-family: FC-icons;
+    src: url(FC-Iconic/FC\ Iconic\ Regular.otf);
+}
+
+/* Misans Thai */
+
+@font-face {
+    font-family: MiSans-th-Bold;
+    src: url(MiSans_Thai/MiSansThai-Bold.otf);
+}
+
+@font-face {
+    font-family: MiSans-th-DemoBold;
+    src: url(MiSans_Thai/MiSansThai-Demibold.otf);
+}
+
+@font-face {
+    font-family: MiSans-th-Extralight;
+    src: url(MiSans_Thai/MiSansThai-ExtraLight.otf);
+} 
+
+@font-face {
+    font-family: MiSans-th-light;
+    src: url(MiSans_Thai/MiSansThai-Light.otf);
+}
+
+@font-face {
+    font-family: MiSans-th-Normal;
+    src: url(MiSans_Thai/MiSansThai-Normal.otf);
+}
+
+@font-face {
+    font-family: MiSans-th-Med;
+    src: url(MiSans_Thai/MiSansThai-Medium.otf);
+}
